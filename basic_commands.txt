@@ -1,0 +1,10 @@
+(Building command):
+	docker build -t "<image-name>" .
+
+
+(Show images):
+	docker images
+
+
+(Run image):
+	docker run "<image-name>"
